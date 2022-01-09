@@ -1,0 +1,14 @@
+Congratulations ${PERSON_NAME} 🎉
+
+
+Thank you for your participation in DEVFEST 2K21 EL BAYADH! We hope you enjoyed it as we did, and you built up some new skills that would help you in your future.
+
+Please find your attendance certificate attached.
+
+👋 Do you know
+We will be running more exciting activities in the near furture, make sure to join us here: https://gdg.community.dev/gdg-elbayadh/
+And don't forget to follow us on social media.
+
+Best regards,
+
+GDG El Bayadh Team
