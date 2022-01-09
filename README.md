@@ -2,6 +2,7 @@
 This is a basic post event tool that allows you to create certificates for all your attendees and send it to them by email
 
 # Setup instructions
+
 <ol>
   <li>git clone https://github.com/mostafaFechfouch/post_event.git</li>
         you will get the project in your computer
@@ -25,4 +26,5 @@ This is a basic post event tool that allows you to create certificates for all y
     <li> <i> python email_sender.py </i> This will send emails to all your participants with their certificates attached</li>
   </ul>
 </ol>
+
 # Congratulations!
